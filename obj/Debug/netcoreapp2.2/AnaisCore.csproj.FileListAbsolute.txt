@@ -1,0 +1,14 @@
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.csproj.CoreCompileInputs.cache
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.AssemblyInfoInputs.cache
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.AssemblyInfo.cs
+C:\Dev\Anais\AnaisCore\bin\Debug\netcoreapp2.2\AnaisCore.deps.json
+C:\Dev\Anais\AnaisCore\bin\Debug\netcoreapp2.2\AnaisCore.runtimeconfig.json
+C:\Dev\Anais\AnaisCore\bin\Debug\netcoreapp2.2\AnaisCore.runtimeconfig.dev.json
+C:\Dev\Anais\AnaisCore\bin\Debug\netcoreapp2.2\AnaisCore.dll
+C:\Dev\Anais\AnaisCore\bin\Debug\netcoreapp2.2\AnaisCore.pdb
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.csprojAssemblyReference.cache
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.RazorAssemblyInfo.cache
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.RazorAssemblyInfo.cs
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.RazorTargetAssemblyInfo.cache
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.dll
+C:\Dev\Anais\AnaisCore\obj\Debug\netcoreapp2.2\AnaisCore.pdb
